@@ -19,7 +19,7 @@ coordinator.
 * Security Coordinator
   * Bjoern Rennhak [bjoern@orpiva.com](mailto:bjoern@orpiva.com)
   * GPG Key Fingerprint = B2CC 3175 3A25 9616 F121  90FB E9EE 5EBA 1122 967D
-  * Phone: +44 207 821 1182
+  * Phone: +44 20 38 70 29 29
 
 ## Disclosure Policy
 
